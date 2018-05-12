@@ -1,0 +1,29 @@
+_repo: Briarwood-Girls_34894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Glover, Julia Lestarjette
+    alias: Glover, Julia L. (Julia Lestarjette)
+    birthdate: 1866
+    gutenberg_agent_id: '37307'
+    url: http://www.gutenberg.org/2009/agents/37307
+description: ''
+gutenberg_issued: '2011-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Roommates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Women''s colleges -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+title: Briarwood Girls
+url: http://www.gutenberg.org/ebooks/34894
